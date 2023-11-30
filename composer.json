@@ -1,0 +1,18 @@
+{
+    "description":"crud básico com PHP, POO, MVC e PDO",
+    "authors":[
+        {
+         "name":"Osvaldo Cândido",
+         "email":"osvaldomarcosisaaccandido3@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/",
+            "Routes\\":"routes/"
+        }
+    },
+    "require":{
+        
+    }
+}
